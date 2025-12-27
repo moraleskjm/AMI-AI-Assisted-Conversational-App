@@ -1,4 +1,4 @@
-# **Ami - AI Assisted Therapist API 🤖💬 **
+# Ami - AI Assisted Therapist API 🤖💬 
 
 **Ami** is an AI-assisted therapist built as a foundation for something bigger. I created this project because I know many people struggle with mental illness and need someone to talk to, but are too afraid to reach out to others because of the fear of judgment. **Ami** provides a **safe space** where people can express their feelings without the worry of being judged.
 
